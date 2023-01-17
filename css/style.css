@@ -6,7 +6,6 @@
     border-color: white;
     background-color: white;
     color: black;
-    
 }
 
 .box{
@@ -26,10 +25,9 @@
     margin-top: 10px;
     padding: 5px;
     border-radius: 5px;
-    border-color: tomato;
     color: white;
     background-color: tomato;
-    
+    border-color: tomato;
 }
 
 .liStyle{
@@ -37,6 +35,4 @@
     color: black;
     text-decoration: none;
     list-style-type: none;
-    
-
 }
